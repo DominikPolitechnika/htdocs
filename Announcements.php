@@ -9,9 +9,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
 </head>
 <body class="bg-dark">
-<?php include "includes/jumbotron.php";?>
 <?php include "includes/navbar.php";?>
-<?php include "includes/featurescontent.php"?>
+<?php include "includes/bdconfig.php"?>
+<?php include "includes/announcmentscontent.php"?>
 
 
 
